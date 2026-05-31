@@ -12,7 +12,6 @@ Sou um **Analista de Projetos e Desenvolvedor**, graduando em Análise e Desenvo
 
 ---
 
-
 ## 🛠️ Tecnologias e Ferramentas
 
 **Desenvolvimento & Arquitetura**
@@ -24,10 +23,16 @@ Sou um **Analista de Projetos e Desenvolvedor**, graduando em Análise e Desenvo
 * Excel Avançado
 * Python
 
+**Automação & Inteligência Artificial**
+* Engenharia de Prompts (ChatGPT, Gemini, Copilot)
+* Otimização de fluxos de trabalho e escrita de código com LLMs
+* Automação de rotinas operacionais e ganho de produtividade
+
 **Gestão & Metodologias**
 * Scrum & Metodologias Ágeis
 * Transformação Digital & Martech
 
+---
 
 ## 📫 Como me encontrar
 
