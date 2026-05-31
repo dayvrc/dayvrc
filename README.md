@@ -12,6 +12,7 @@ Sou um **Analista de Projetos e Desenvolvedor**, graduando em Análise e Desenvo
 
 ---
 
+
 ## 🛠️ Tecnologias e Ferramentas
 
 **Desenvolvimento & Arquitetura**
@@ -27,21 +28,11 @@ Sou um **Analista de Projetos e Desenvolvedor**, graduando em Análise e Desenvo
 * Scrum & Metodologias Ágeis
 * Transformação Digital & Martech
 
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayvsonrc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayvsonrc&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
 
 ## 📫 Como me encontrar
 
 - 💼 **LinkedIn:** [in/dayvsoncosta](https://www.linkedin.com/in/dayvsoncosta/)
-- 🌐 **Portfólio:** [dayvsoncosta.com.br](https://dayvsoncosta.vercel.app/)
+- 🌐 **Portfólio:** [dayvsoncosta.vercel.app](https://dayvsoncosta.vercel.app/)
 
 <br/>
 <div align="center">
