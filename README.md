@@ -33,6 +33,10 @@ Sou um **Analista de Projetos e Desenvolvedor**, graduando em Análise e Desenvo
 * Transformação Digital & Martech
 
 ---
+**Projetos em andamento**
+- 🌐 **Portfólio Enjoy Agency:** [enjoyagency.vercel.app](https://enjoyagency.vercel.app/)
+
+---
 
 ## 📫 Como me encontrar
 
